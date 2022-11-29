@@ -25,9 +25,9 @@ class NewsCubit extends Cubit<NewsStates> {
   List<BottomNavigationBarItem> bottomItem = [
     BottomNavigationBarItem(
       icon: Icon(
-        Icons.business,
+        Icons.drive_file_rename_outline_rounded,
       ),
-      label: 'Business',
+      label: 'Diversified',
     ),
     BottomNavigationBarItem(
       icon: Icon(
