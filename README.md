@@ -28,17 +28,17 @@ In this app, I used a lot of flutter packages, including:
 #########################################################
 
 <picture>
-  <img src="https://user-images.githubusercontent.com/108765802/204667248-0c1ff43b-3750-4448-984d-da509b9964b5.jpg" width="300" height="500"/>
+  <img src="https://user-images.githubusercontent.com/108765802/204667248-0c1ff43b-3750-4448-984d-da509b9964b5.jpg" width="250" height="450"/>
 </picture>
 <picture>
-  <img src="https://user-images.githubusercontent.com/108765802/204667257-7e1df0e4-46fe-419b-adca-7a201f955b85.jpg" width="300" height="500"/>
+  <img src="https://user-images.githubusercontent.com/108765802/204667257-7e1df0e4-46fe-419b-adca-7a201f955b85.jpg" width="250" height="450"/>
 </picture>
 <picture>
-  <img src="https://user-images.githubusercontent.com/108765802/204667259-c8b959fe-05bb-4cd4-b565-f58bb5cde767.jpg" width="300" height="500"/>
+  <img src="https://user-images.githubusercontent.com/108765802/204667259-c8b959fe-05bb-4cd4-b565-f58bb5cde767.jpg" width="250" height="450"/>
 </picture>
 <picture>
-  <img src="https://user-images.githubusercontent.com/108765802/204667261-f197804c-81ad-4362-b67a-0de2b784db9f.jpg" width="300" height="500"/>
+  <img src="https://user-images.githubusercontent.com/108765802/204667261-f197804c-81ad-4362-b67a-0de2b784db9f.jpg" width="250" height="450"/>
 </picture>
 <picture>
-  <img src="https://user-images.githubusercontent.com/108765802/204667267-f145e8bf-b517-4493-909a-ac4cc7cd0b90.jpg" width="300" height="500"/>
+  <img src="https://user-images.githubusercontent.com/108765802/204667267-f145e8bf-b517-4493-909a-ac4cc7cd0b90.jpg" width="250" height="450"/>
 </picture>
